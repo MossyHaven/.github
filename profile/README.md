@@ -25,11 +25,11 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/forks/MossyHaven/.github?style=flat-square&color=A8CBAA&label=forks" alt="Forks"  >
-  <img src="https://img.shields.io/github/stars/MossyHaven/.github?style=flat-square&color=D98A8A&label=stars" alt="Stars"  >
-  <img src="https://img.shields.io/github/issues/MossyHaven/.github?style=flat-square&color=E5A885&label=issues" alt="Issues"  >
-  <img src="https://img.shields.io/github/issues-pr/MossyHaven/.github?style=flat-square&color=4C9B9C&label=pull%20requests" alt="Pull Requests"  >
-  <img src="https://img.shields.io/github/contributors/MossyHaven/.github?style=flat-square&color=5A7F5A&label=contributors" alt="Contributors"  >
+  <img src="https://img.shields.io/github/forks/MossyHaven/MossyHaven?style=flat-square&color=A8CBAA&label=forks" alt="Forks"  >
+  <img src="https://img.shields.io/github/stars/MossyHaven/MossyHaven?style=flat-square&color=D98A8A&label=stars" alt="Stars"  >
+  <img src="https://img.shields.io/github/issues/MossyHaven/MossyHaven?style=flat-square&color=E5A885&label=issues" alt="Issues"  >
+  <img src="https://img.shields.io/github/issues-pr/MossyHaven/MossyHaven?style=flat-square&color=4C9B9C&label=pull%20requests" alt="Pull Requests"  >
+  <img src="https://img.shields.io/github/contributors/MossyHaven/MossyHaven?style=flat-square&color=5A7F5A&label=contributors" alt="Contributors"  >
 </p>
 
 
