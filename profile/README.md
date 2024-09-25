@@ -38,24 +38,6 @@
 </p>
 
 <p align="center">
-  <a href="">
-    <img src="https://via.placeholder.com/64/3F678D/141614?text=D" width="64" height="64" alt="Discord Logo"/>
-  </a>
-  <img src="https://via.placeholder.com/5x1" height="1" width="5"/>
-  <a href="">
-    <img src="https://via.placeholder.com/64/D6DAD1/141614?text=x" width="64" height="64" alt="Twitter Logo"/>
-  </a>
-  <img src="https://via.placeholder.com/5x1" height="1" width="5"/>
-  <a href="">
-    <img src="https://via.placeholder.com/64/BDA0DB/141614?text=M" width="64" height="64" alt="Mastodon Logo"/>
-  </a>
-  <img src="https://via.placeholder.com/5x1" height="1" width="5"/>
-  <a href="">
-    <img src="https://via.placeholder.com/64/D98A8A/141614?text=R" width="64" height="64" alt="Reddit Logo"/>
-  </a>
-</p>
-
-<p align="center">
 Join our community!
 </p>
 
