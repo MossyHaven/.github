@@ -42,7 +42,3 @@ Join our community!
 </p>
 
 &nbsp;
-
-<p align="center">
-  <img src="../images/preview.png" alt="mossy haven preview"/>
-</p>
